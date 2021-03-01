@@ -1,4 +1,0 @@
-"E:\CLine\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" E:\CPP_Project\eigen_lsqr_test
--- Configuring done
--- Generating done
--- Build files have been written to: E:/CPP_Project/eigen_lsqr_test/cmake-build-debug
