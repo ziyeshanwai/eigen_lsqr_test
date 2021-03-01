@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/CPP_Project/eigen_lsqr_test/cmake-build-debug/CMakeFiles/eigen_lsqr_test.dir/embed.manifest"
